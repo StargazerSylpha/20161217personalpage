@@ -8,6 +8,4 @@
 
 background pid:60006408
 
-展示用：https://ohx1zkpsb.bkt.clouddn.com/page/im/index.html
-
 2016/12/07 at LYU
